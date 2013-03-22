@@ -1,15 +1,15 @@
 Source: lbd
-Section: unknown
+Section: utils
 Priority: extra
 Maintainer: Devon Kearns <dookie@localhost.localdomain>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
-Homepage: <insert the upstream URL, if relevant>
-#Vcs-Git: git://git.debian.org/collab-maint/lbd.git
-#Vcs-Browser: http://git.debian.org/?p=collab-maint/lbd.git;a=summary
+Homepage: http://ge.mine.nu/code/
+Vcs-Git: ssh://git@git.kali.org/packages/lbd.git
+Vcs-Browser: http://git.kali.org/gitweb/?p=packages/lbd.git;a=summary
 
 Package: lbd
 Architecture: all
 Depends: ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: Load balancer detector
+ Checks if a given domain uses load-balancing.
