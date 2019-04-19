@@ -5,8 +5,8 @@ Maintainer: Kali Developers <devel@kali.org>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
 Homepage: http://ge.mine.nu/code/
-Vcs-Git: ssh://git@git.kali.org/packages/lbd.git
-Vcs-Browser: http://git.kali.org/gitweb/?p=packages/lbd.git;a=summary
+Vcs-Git: https://gitlab.com/kalilinux/packages/lbd.git
+Vcs-Browser: https://gitlab.com/kalilinux/packages/lbd
 
 Package: lbd
 Architecture: all
