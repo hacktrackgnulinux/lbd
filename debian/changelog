@@ -1,3 +1,17 @@
+lbd (0.4-1kali2) kali-dev; urgency=medium
+
+  [ Raphaël Hertzog ]
+  * Update Maintainer field
+  * Update Vcs-* fields for the move to gitlab.com
+  * Add GitLab's CI configuration file
+  * Configure git-buildpackage for Kali
+  * Update URL in GitLab's CI configuration file
+
+  [ Sophie Brun ]
+  * Update packaging
+
+ -- Sophie Brun <sophie@offensive-security.com>  Mon, 14 Dec 2020 17:17:24 +0100
+
 lbd (0.4-1kali1) kali; urgency=low
 
   * Upstream Update
