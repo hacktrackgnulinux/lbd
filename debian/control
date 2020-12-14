@@ -1,9 +1,9 @@
 Source: lbd
 Section: utils
-Priority: extra
+Priority: optional
 Maintainer: Kali Developers <devel@kali.org>
-Build-Depends: debhelper (>= 8.0.0)
-Standards-Version: 3.9.3
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.0
 Homepage: http://ge.mine.nu/code/
 Vcs-Git: https://gitlab.com/kalilinux/packages/lbd.git
 Vcs-Browser: https://gitlab.com/kalilinux/packages/lbd
