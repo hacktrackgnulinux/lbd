@@ -6,7 +6,7 @@ Uploaders: Devon Kearns <dookie@kali.org>,
            Jim O'Gorman <elwood@kali.org>,
            Sophie Brun <sophie@offensive-security.com>,
 Build-Depends: debhelper-compat (= 13)
-Standards-Version: 4.5.0
+Standards-Version: 4.6.1
 Homepage: http://ge.mine.nu/code/
 Vcs-Git: https://gitlab.com/kalilinux/packages/lbd.git
 Vcs-Browser: https://gitlab.com/kalilinux/packages/lbd
