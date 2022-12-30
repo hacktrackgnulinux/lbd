@@ -45,7 +45,7 @@ else
 	HTTPS=false
 fi
 METHODS=""
-
+figlet lbd
 echo 
 echo "lbd - load balancing detector 0.4 - Checks if a given domain uses load-balancing."
 echo "                                    Written by Stefan Behte (http://ge.mine.nu)"
